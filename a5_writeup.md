@@ -33,3 +33,4 @@ After completing the assignment, answer the following reflection questions:
 
 3. Considering the current implementation, how might the Sudoku solver be adapted or extended for larger puzzles or different types of grid-based logic games? How can the lessons learned from this assignment be applied to real-world problem-solving or optimization challenges?
         It might be adapted into making effcicent data structures that can handle larger grids. We could use the Sudoku Solver with bigger datasets and get it to handle more. The lessons could be used in real world scenarios like in Pattern Recognition as this idea present within the solver can be further expanded to identify better strategies and configurations in games or in large data sets in relation to health and science. 
+        
